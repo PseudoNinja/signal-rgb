@@ -1,11 +1,11 @@
 {
-"ProductName": "Product’s actual name",
+   "ProductName": "Product’s actual name",
    "DisplayName": "The name SignalRGB displays for the product",
    "Brand": "Put the device brand here.",
    "Type": "Tells SignalRGB what type of device this is. (Fan, AIO, etc.)",
-   "LedCount": Insert number of LEDS here.,
-   "Width": Width on SignalRGB’s canvas,
-   "Height": Height on SignalRGB’s Canvas,
+   "LedCount":0,
+   "Width": 0,
+   "Height": 0,
    "LedMapping": [
        0,1,2,3,4,5,6,7,8,9,10
    ],
@@ -25,5 +25,5 @@
        "Led10",
        "Led11"
    ],
-"Image": “The image of the device goes here. The image needs encoded into base 64.”
+"Image": ""
 }
